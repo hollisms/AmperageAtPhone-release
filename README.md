@@ -9,7 +9,7 @@ Rambotics: https://www.rossrambotics.com/about.html
 
 Our Sponsors: https://www.rossrambotics.com/sponsors.html
 
-If you enjoy this and would like to support Rambotics (a registered 501c3) please feel free to donate:
+If you enjoy this and would like to support Rambotics via the Rambotics Boosters (a registered 501c3) please feel free to donate:
 https://www.rossrambotics.com/donate.html
 
 Would you like to see your robot included in the simulation?  We would too! 
